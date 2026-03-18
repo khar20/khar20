@@ -31,7 +31,7 @@ I am a Computer Systems Engineering graduate and currently a Master’s student 
 **Web Development & Frameworks**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
