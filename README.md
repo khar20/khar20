@@ -1,8 +1,8 @@
 # Hi there, I'm Oscar Rodríguez 👋
 
-### Junior Data Scientist | AI & Computer Vision Enthusiast
+### AI Engineer | Full Stack Engineer
 
-I am a Computer Systems Engineering graduate and currently a **Master’s student in Artificial Intelligence**, based in **Trujillo, Peru**. My focus is on building data-driven solutions, specializing in Machine Learning, Computer Vision, and full-stack development to optimize processes with real-world impact.
+I am a Computer Systems Engineering graduate and currently a Master’s student in Artificial Intelligence, based in Trujillo, Peru. My focus is on building data-driven solutions, specializing in Machine Learning, Computer Vision, and full-stack development to optimize processes with real-world impact.
 
 ---
 
@@ -29,10 +29,9 @@ I am a Computer Systems Engineering graduate and currently a **Master’s studen
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 **Web Development & Frameworks**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro)
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
